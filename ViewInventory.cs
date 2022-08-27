@@ -9,7 +9,6 @@ using Microsoft.Xna.Framework;
 using System.Data;
 using TShockAPI.DB;
 using Terraria.ID;
-//usin
 
 namespace ViewInventory
 {
